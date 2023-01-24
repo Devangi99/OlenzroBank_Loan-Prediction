@@ -7,7 +7,7 @@ This group project is related to the FDM module in 2nd semester of 3rd year. A M
 
 ## Analyzing the dataset
 - Step 01: Calculate the size of the dataset with number of features/attributes and check data types of the columns
-![](images/s1.png)
+![](images/s1.PNG)
 - Step 02: Get an idea about columns and generate column names
 ![](images/s2.png)
 - Step 03: Based on the observation of the dataset, plot a diagram to identify the correlation between the features
