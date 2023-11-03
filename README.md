@@ -3,7 +3,7 @@
 https://user-images.githubusercontent.com/88153883/214396009-b7b85f71-4a8a-40bd-8a61-4c4a70e34dda.mp4
 
 # OlenzroBank_Loan-Prediction
-This group project is related to the FDM module in 2nd semester of 3rd year. A Machine Learning model was developed to predict the risk of lending a loan to a customer, based on the related factors such as annual income, income category, age, house ownership, etc. . A historical data set from [Kaggle](https://www.kaggle.com/) was used as a source that contains important characteristics that were collected before lending the loan to customers. 
+This group project is related to the Fundamentals of Data Mining module in 2nd semester of 3rd year. A Machine Learning model was developed to predict the risk of lending a loan to a customer, based on the related factors such as annual income, income category, age, house ownership, etc. . A historical data set from [Kaggle](https://www.kaggle.com/) was used as a source that contains important characteristics that were collected before lending the loan to customers. 
 
 ## Analyzing the dataset
 - Step 01: Calculate the size of the dataset with number of features/attributes and check data types of the columns
